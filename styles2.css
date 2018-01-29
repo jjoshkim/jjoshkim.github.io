@@ -1,0 +1,23 @@
+.navbar-light {
+  background-color: #E32DAF;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-toggler {
+    color: white;
+}
+
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h3 {
+  color: #E32DAF;
+  font-size: 80px;
+}
+
+.btn-primary {
+    background-color: #E32DAF;
+    border: none;
+}

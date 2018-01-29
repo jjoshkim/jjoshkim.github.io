@@ -1,3 +1,16 @@
-h1 {
+
+
+h1.header {
   color: blue;
+  text-align: center;
+}
+
+
+
+img {
+  width: 1000 px
+}
+
+table {
+  border-style: groove;
 }
