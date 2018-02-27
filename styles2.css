@@ -10,6 +10,14 @@
     color: white;
 }
 
+.jumbotron {
+  background-image: url("friends.jpg");
+  background-size: cover;
+}
+
+#jumbo {
+  color: white;
+}
 
 body {
   font-family: 'Raleway', sans-serif;
@@ -22,6 +30,11 @@ h1 {
 
 h2 {
   color: #E32DAF;
+}
+
+h3 {
+  color: #E32DAF;
+  font-size: 40px;
 }
 
 .btn-primary {
