@@ -54,3 +54,7 @@ h3 {
   width: 300px;
   margin:auto;
 }
+
+.card-img-top {
+    width: 100%;
+}
