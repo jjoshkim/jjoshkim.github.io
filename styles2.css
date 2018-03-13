@@ -37,8 +37,18 @@ h3 {
   font-size: 40px;
 }
 
+h4 {
+  color: #E32DAF;
+  font-size: 20px;
+}
+
 .btn-primary {
   background-color: #E32DAF;
+  border: none;
+}
+
+.btn-secondary {
+  background-color: #white;
   border: none;
 }
 
